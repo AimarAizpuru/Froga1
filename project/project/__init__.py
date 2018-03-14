@@ -18,6 +18,4 @@ class osagarriak(Produktuak):
         Produktuak.__init__(self, produktuID, izena, prezioa, kompainia)
         
     def bistaratu(self):
-         print(self.produktuID)  
-         print(self.izena)
-          
+         print(self.produktuID)   
