@@ -19,4 +19,4 @@ class osagarriak(Produktuak):
         
     def bistaratu(self):
          print(self.produktuID)   
-         
+         print("mi")
